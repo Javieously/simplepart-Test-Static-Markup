@@ -6550,7 +6550,7 @@ a.badge:focus {
   color: inherit;
   background-color: #eee;
   background-color: transparent;
-  background-image: url(images/parts/heroes/default.jpg);
+  background-image: url('../files/images/parts/heroes/default.jpg');
   background-repeat: no-repeat;
   background-size: auto;
   max-width: none !important;
@@ -8612,7 +8612,7 @@ button.close {
   font-family: 'Verdana', sans-serif !important;
 }
 .cartControlContainer .cartWidget {
-  background-image: url('images/subaru-oem-assets/icons/cart-widget-arrow-top.png');
+  background-image: url('../files/images/subaru-oem-assets/icons/cart-widget-arrow-top.png');
   background-position-x: 96% !important;
   position: relative;
   min-height: 1px;
@@ -8622,7 +8622,7 @@ button.close {
   right: 0 !important;
   padding: 12px 0 0 0;
   background-position-x: 98%;
-  background-image: url('images/icons/arrow-cartwidget.png') !important;
+  background-image: url('../files/images/icons/arrow-cartwidget.png') !important;
   background-repeat: no-repeat;
 }
 .cartControlContainer .cartWidget .panel {
@@ -8708,7 +8708,7 @@ button.close {
 }
 .cartControlContainer .cartWidget .widgetItemsWrapper .widgetOrderItems .widgetItemDetails .removeButton {
   background-color: transparent;
-  background-image: url('images/icons/x-cartproduct.png');
+  background-image: url('../files/images/icons/x-cartproduct.png');
 }
 .cartControlContainer .cartWidget .widgetItemsWrapper .qtyCol {
   font-weight: normal !important;
@@ -8735,16 +8735,16 @@ button.close {
 .cartControlContainer .cartWidget .cartWidgetTotal .cartTotal {
   font-family: 'Roboto', sans-serif !important;
   font-size: 24px !important;
-  background-image: url('images/icons/cart-black.png');
+  background-image: url('../files/images/icons/cart-black.png');
 }
 .cartControlContainer .cartWidget .cartWidgetTotal .cartTotalAmount {
   font-family: 'Roboto', sans-serif !important;
   font-size: 24px !important;
 }
 .cartControlContainer .removeButton {
-  background-image: url('images/icons/x-cart-product.png');
+  background-image: url('../files/images/icons/x-cart-product.png');
   background-color: transparent !important;
-  background-image: url('images/icons/x-cart.png');
+  background-image: url('../files/images/icons/x-cart.png');
   background-repeat: no-repeat;
   width: 20px;
   height: 20px;
@@ -8759,7 +8759,7 @@ button.close {
 }
 .cartControlContainer .closeWidget {
   background-color: #9e1e23;
-  background: url('images/icons/x-cartproduct.png') no-repeat right;
+  background: url('../files/images/icons/x-cartproduct.png') no-repeat right;
   height: 30px;
   border-style: none;
   background-size: 11px;
@@ -8771,7 +8771,7 @@ button.close {
   user-select: none;
 }
 .cartControlContainer .my-garage-widget {
-  background-image: url('images/icons/cart-widget-arrow-top.png');
+  background-image: url('../files/images/icons/cart-widget-arrow-top.png');
   background-repeat: no-repeat;
   background-position-x: 470px;
   right: 81px;
@@ -8780,7 +8780,7 @@ button.close {
   padding-top: 12px;
 }
 .cartControlContainer .cartTotal {
-  background-image: url('images/icons/cart-black.png');
+  background-image: url('../files/images/icons/cart-black.png');
   background-repeat: no-repeat;
   background-position: 5px 5px;
   background-size: 20px;
@@ -8948,7 +8948,7 @@ button.close {
   margin-left: -10px;
 }
 .garageControlContainer .my-garage-widget {
-  background-image: url('images/icons/cart-widget-arrow-top.png');
+  background-image: url('../files/images/icons/cart-widget-arrow-top.png');
   background-repeat: no-repeat;
   background-position-x: 470px;
   right: 81px;
@@ -8957,7 +8957,7 @@ button.close {
   padding-top: 12px;
 }
 .garageControlContainer .cartTotal {
-  background-image: url('images/icons/cart-black.png');
+  background-image: url('../files/images/icons/cart-black.png');
   background-repeat: no-repeat;
   background-position: 5px 5px;
   background-size: 20px;
@@ -8972,7 +8972,7 @@ button.close {
   font-size: 24px !important;
 }
 .garageControlContainer .removeButton {
-  background-image: url('images/icons/x-cart.png');
+  background-image: url('../files/images/icons/x-cart.png');
   background-repeat: no-repeat;
   width: 20px;
   height: 20px;
@@ -9095,7 +9095,7 @@ button.close {
   font-family: 'Verdana', sans-serif !important;
 }
 .garageControlContainer .closeWidget {
-  background: url('images/icons/x-cartproduct.png') no-repeat right;
+  background: url('../files/images/icons/x-cartproduct.png') no-repeat right;
   height: 30px;
   border-style: none;
   background-size: 11px;
@@ -9376,7 +9376,7 @@ button.close {
   text-decoration: none;
 }
 .lifestyle .browseAccessoriesNav .restart-container .restart-btn {
-  background: #fff url('images/accessories/restart.png') center no-repeat;
+  background: #fff url('../files/images/accessories/restart.png') center no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -9396,7 +9396,7 @@ button.close {
   left: 64px;
 }
 .lifestyle .browseAccessoriesNav .ss-print .ss-print-pdf {
-  background: #fff url('images/accessories/print.png') center no-repeat;
+  background: #fff url('../files/images/accessories/print.png') center no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -9978,7 +9978,7 @@ button.close {
   text-decoration: none;
 }
 .browseaccessories .browseAccessoriesNav .restart-container .restart-btn {
-  background: #fff url('images/accessories/restart.png') center no-repeat;
+  background: #fff url('../files/images/accessories/restart.png') center no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -9998,7 +9998,7 @@ button.close {
   left: 64px;
 }
 .browseaccessories .browseAccessoriesNav .ss-print .ss-print-pdf {
-  background: #fff url('images/accessories/print.png') center no-repeat;
+  background: #fff url('../files/images/accessories/print.png') center no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -11028,7 +11028,7 @@ button.close {
   text-decoration: none;
 }
 .interior .lifestyle .browseAccessoriesNav .restart-container .restart-btn {
-  background: #fff url('images/icons/header-restart-default.png') center / 18px 22px no-repeat;
+  background: #fff url('../files/images/icons/header-restart-default.png') center / 18px 22px no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -11048,7 +11048,7 @@ button.close {
   left: 64px;
 }
 .interior .lifestyle .browseAccessoriesNav .ss-print .ss-print-pdf {
-  background: #fff url('images/accessories/print.png') center no-repeat;
+  background: #fff url('../files/images/accessories/print.png') center no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -11632,7 +11632,7 @@ button.close {
   text-decoration: none;
 }
 .interior .browseaccessories .browseAccessoriesNav .restart-container .restart-btn {
-  background: #fff url('images/icons/header-restart-default.png') center / 18px 22px no-repeat;
+  background: #fff url('../files/images/icons/header-restart-default.png') center / 18px 22px no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -11652,7 +11652,7 @@ button.close {
   left: 64px;
 }
 .interior .browseaccessories .browseAccessoriesNav .ss-print .ss-print-pdf {
-  background: #fff url('images/accessories/print.png') center no-repeat;
+  background: #fff url('../files/images/accessories/print.png') center no-repeat;
   width: 28px;
   height: 28px;
   border: 1px solid #000;
@@ -12036,7 +12036,7 @@ button.close {
   padding-left: 50px;
 }
 .interior .cartPage .proceedTop .proceedToCheckoutButtonBtn:focus {
-  background-image: url('images/icons/checkout-lock-white.png');
+  background-image: url('../files/images/icons/checkout-lock-white.png');
 }
 .interior .cartPage .cartSummaryContainer .removeOrSaveAllBtn .btn.btn-secondary.btn-sm {
   color: #212b36 !important;
@@ -12089,7 +12089,7 @@ button.close {
   border-color: #9e1e23 !important;
 }
 .interior .cartPage .removeButton {
-  background-image: url('images/icons/x-cartproduct.png');
+  background-image: url('../files/images/icons/x-cartproduct.png');
   background-position: 0 9px !important;
 }
 .interior .cartPage .lowerCartSection .relatedProductCards .productCard .panel-body {
@@ -12232,7 +12232,7 @@ button.close {
   font-size: 12px !important;
   line-height: 15px !important;
   text-align: center !important;
-  background-image: url('images/icons/print-white.png');
+  background-image: url('../files/images/icons/print-white.png');
   background-size: 20%;
   padding-left: 32px;
   background-position-x: 9px;
@@ -12244,7 +12244,7 @@ button.close {
   text-transform: uppercase !important;
 }
 .browseAccessoriesContainer .browseAccessoriesNav .browseAccessoriesNavColumn #ctl00_Content_PageBody_TogglePrintAll .ss-print .btn.btn-primary:hover {
-  background-image: url('images/icons/print.png') !important;
+  background-image: url('../files/images/icons/print.png') !important;
   background-repeat: no-repeat;
   background-size: 20%;
   background-position-x: 9px;
@@ -12594,7 +12594,7 @@ div {
   border-color: #fff !important;
 }
 .header-link-arrow-down {
-  background-image: url('images/arrow-down-black.png') !important;
+  background-image: url('../files/images/arrow-down-black.png') !important;
 }
 .header-link-about-arrow-right {
   background-image: url(images/arrow-right-black.png) !important;
@@ -12661,7 +12661,7 @@ div {
   background-color: transparent !important;
 }
 .prod-view.add-to-cart {
-  background-image: url('images/icons/cart-all-hover.png') !important;
+  background-image: url('../files/images/icons/cart-all-hover.png') !important;
   max-width: 75px !important;
   float: right;
   display: inline-block !important;
@@ -12821,11 +12821,11 @@ a.skip:hover {
   margin: 0 5px;
 }
 .footer .links-panel .dealerSocialLinks .google {
-  background: url('images/icons/social-google-default.png');
+  background: url('../files/images/icons/social-google-default.png');
   background-size: 36px auto !important;
 }
 .footer .links-panel .dealerSocialLinks .google:hover {
-  background: url('images/icons/social-google-hover.png');
+  background: url('../files/images/icons/social-google-hover.png');
 }
 .footer .disclaimer-panel {
   background-color: #072847;
@@ -12852,7 +12852,7 @@ a.skip:hover {
   height: 30px;
   background-repeat: no-repeat;
   background-size: 20px;
-  background-image: url('images/icons/disclaimer-white.png');
+  background-image: url('../files/images/icons/disclaimer-white.png');
   margin-top: -5px;
   margin-right: 0;
 }
@@ -12875,7 +12875,7 @@ a.skip:hover {
   color: #fff !important;
 }
 .footer .spLogo {
-  background: transparent url('images/logos/simplepart-logo-light.png') no-repeat;
+  background: transparent url('../files/images/logos/simplepart-logo-light.png') no-repeat;
   height: 12px;
   background-size: 250px;
 }
@@ -12890,31 +12890,31 @@ a.skip:hover {
   background-position: center;
 }
 .footer .dealerSocialLinks .icon.facebook {
-  background-image: url('images/icons/social-faceboook-white.png');
+  background-image: url('../files/images/icons/social-faceboook-white.png');
   background-size: 10px 19px;
 }
 .footer .dealerSocialLinks .icon.youtube {
-  background-image: url('images/icons/social-youtube-white.png');
+  background-image: url('../files/images/icons/social-youtube-white.png');
   background-size: 25px 17px;
 }
 .footer .dealerSocialLinks .icon.twitter {
-  background-image: url('images/icons/social-twitter-white.png');
+  background-image: url('../files/images/icons/social-twitter-white.png');
   background-size: 22px 18px;
 }
 .footer .dealerSocialLinks .icon.google {
-  background-image: url('images/icons/social-google-white.png');
+  background-image: url('../files/images/icons/social-google-white.png');
   background-size: 34px 20px;
 }
 .footer .dealerSocialLinks .icon.instagram {
-  background-image: url('images/icons/social-instagram-white.png');
+  background-image: url('../files/images/icons/social-instagram-white.png');
   background-size: 20px 20px;
 }
 .footer .dealerSocialLinks .icon.pinterest {
-  background-image: url('images/icons/social-pinterest-white.png');
+  background-image: url('../files/images/icons/social-pinterest-white.png');
   background-size: 19px 25px;
 }
 .footer .dealerSocialLinks .icon.bbb {
-  background-image: url('images/icons/bbb-white.png');
+  background-image: url('../files/images/icons/bbb-white.png');
   background-size: 19px 25px;
 }
 .footer .panel-body {
@@ -13169,19 +13169,19 @@ a.skip:hover {
   border: none;
 }
 .contact-confidence .icon.phone {
-  background-image: url('images/icons/circle-phone.png');
+  background-image: url('../files/images/icons/circle-phone.png');
 }
 .contact-confidence .icon.email {
-  background-image: url('images/icons/circle-email.png');
+  background-image: url('../files/images/icons/circle-email.png');
 }
 .contact-confidence .icon.return {
-  background-image: url('images/icons/circle-returns.png');
+  background-image: url('../files/images/icons/circle-returns.png');
 }
 .contact-confidence .icon.warranty {
-  background-image: url('images/icons/circle-warranty.png');
+  background-image: url('../files/images/icons/circle-warranty.png');
 }
 .contact-confidence .icon.myProfile {
-  background-image: url('images/icons/circle-profile.png');
+  background-image: url('../files/images/icons/circle-profile.png');
 }
 .contentWrapper {
   margin-bottom: 20px;
@@ -13215,7 +13215,7 @@ a.skip:hover {
   font-family: 'Roboto', sans-serif !important;
 }
 .reviewsViewMore {
-  background-image: url('images/icons/arrow-view-more.png');
+  background-image: url('../files/images/icons/arrow-view-more.png');
   background-repeat: no-repeat;
   background-position: center right;
   background-size: 6px;
@@ -13433,17 +13433,17 @@ a.skip:hover {
   color: #000 !important;
 }
 .left-nav-links .navbar-inverse .container #SelectVehicleModalBtn {
-  background-image: url('images/icons/arrow-down.png') !important;
+  background-image: url('../files/images/icons/arrow-down.png') !important;
   background-repeat: no-repeat;
   background-position: 97% center;
   background-size: 10px;
   padding-right: 20px;
 }
 .left-nav-links .navbar-inverse .container #SelectVehicleModalBtn:hover {
-  background-image: url('images/icons/arrow-down.png') !important;
+  background-image: url('../files/images/icons/arrow-down.png') !important;
 }
 .left-nav-links .navbar-inverse .container .category-links-button {
-  background-image: url('images/icons/arrow-down.png') !important;
+  background-image: url('../files/images/icons/arrow-down.png') !important;
   background-repeat: no-repeat;
   background-position: 97% center;
   background-size: 10px;
@@ -13451,10 +13451,10 @@ a.skip:hover {
 }
 .left-nav-links .navbar-inverse .container .category-links-button:hover {
   text-decoration: underline;
-  background-image: url('images/icons/arrow-down.png') !important;
+  background-image: url('../files/images/icons/arrow-down.png') !important;
 }
 .left-nav-links .navbar-inverse .container .about-us-link {
-  background-image: url('images/icons/arrow-right.png') !important;
+  background-image: url('../files/images/icons/arrow-right.png') !important;
   background-repeat: no-repeat;
   background-position: 97% center;
   background-size: 6px;
@@ -13462,7 +13462,7 @@ a.skip:hover {
 }
 .left-nav-links .navbar-inverse .container .about-us-link:hover {
   text-decoration: underline;
-  background-image: url('images/icons/arrow-right.png') !important;
+  background-image: url('../files/images/icons/arrow-right.png') !important;
 }
 .lightboxDiv {
   height: 2525px;
@@ -13595,7 +13595,7 @@ a.skip:hover {
   background-color: #e7f1fa !important;
   border: none !important;
   border-top: 1px solid #f2f2f2 !important;
-  background-image: url('images/icons/card-link.png');
+  background-image: url('../files/images/icons/card-link.png');
   background-size: 17px;
   background-repeat: no-repeat;
   background-position: 95% center;
@@ -13605,7 +13605,7 @@ a.skip:hover {
 #v-dealer-finder-component .dealer-finder-card-wrapper .dealer-card .btn-primary:hover {
   background-color: #1275d2 !important;
   color: #e7f1fa !important;
-  background-image: url('images/icons/tile-link.png');
+  background-image: url('../files/images/icons/tile-link.png');
 }
 #v-dealer-finder-component .dealer-finder-card-wrapper .card-lg {
   width: 33%;
@@ -13766,31 +13766,31 @@ a.skip:hover {
   background-position: center;
 }
 .dealerSocialLinks .icon.facebook {
-  background-image: url('images/default-assets/icons/social-faceboook-black.png');
+  background-image: url('../files/images/default-assets/icons/social-faceboook-black.png');
   background-size: 10px 19px;
 }
 .dealerSocialLinks .icon.youtube {
-  background-image: url('images/default-assets/icons/social-youtube-black.png');
+  background-image: url('../files/images/default-assets/icons/social-youtube-black.png');
   background-size: 25px 17px;
 }
 .dealerSocialLinks .icon.twitter {
-  background-image: url('images/default-assets/icons/social-twitter-black.png');
+  background-image: url('../files/images/default-assets/icons/social-twitter-black.png');
   background-size: 22px 18px;
 }
 .dealerSocialLinks .icon.google {
-  background-image: url('images/default-assets/icons/social-google-black.png');
+  background-image: url('../files/images/default-assets/icons/social-google-black.png');
   background-size: 34px 20px;
 }
 .dealerSocialLinks .icon.instagram {
-  background-image: url('images/default-assets/icons/social-instagram-black.png');
+  background-image: url('../files/images/default-assets/icons/social-instagram-black.png');
   background-size: 20px 20px;
 }
 .dealerSocialLinks .icon.pinterest {
-  background-image: url('images/default-assets/icons/social-pinterest-black.png');
+  background-image: url('../files/images/default-assets/icons/social-pinterest-black.png');
   background-size: 19px 25px;
 }
 .dealerSocialLinks .icon.bbb {
-  background-image: url('images/default-assets/icons/bbb-black.png');
+  background-image: url('../files/images/default-assets/icons/bbb-black.png');
   background-size: 19px 25px;
 }
 .inquiryConfirmation {
@@ -13826,7 +13826,7 @@ a.skip:hover {
   max-height: 470px;
 }
 .productSearchPage .addToCart {
-  background-image: url('images/icons/cart-all.png');
+  background-image: url('../files/images/icons/cart-all.png');
   background-color: transparent !important;
   height: 40px;
   width: 40px;
@@ -13836,7 +13836,7 @@ a.skip:hover {
   background-size: 40px;
 }
 .productSearchPage .addToCart:hover {
-  background-image: url('images/icons/cart-all-hover.png');
+  background-image: url('../files/images/icons/cart-all-hover.png');
   border-radius: 3px !important;
 }
 .productSearchProductTitle {
@@ -14580,7 +14580,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   display: flex;
   align-items: center;
   width: 100%;
-  background-image: url('images/icons/full-diagram.png');
+  background-image: url('../files/images/icons/full-diagram.png');
   background-repeat: no-repeat;
   background-position: 100% center;
   background-size: 12px;
@@ -14661,7 +14661,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   display: flex;
   align-items: center;
   width: 100%;
-  background-image: url('images/icons/full-diagram.png');
+  background-image: url('../files/images/icons/full-diagram.png');
   background-repeat: no-repeat;
   background-position: 100% center;
   background-size: 12px;
@@ -14736,7 +14736,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   width: 60px;
   background-color: #fff;
   border: 1px solid #f2f2f2;
-  background-image: url('images/icon-attachment-document.png');
+  background-image: url('../files/images/icon-attachment-document.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -14756,7 +14756,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 .productDetails.interior .tabbedSectionContainer .productAttachmentsTabContent .attachmentTile a .attachmentLinkBtn {
   height: 12px;
   width: 12px;
-  background-image: url('images/icons/full-diagram.png');
+  background-image: url('../files/images/icons/full-diagram.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 12px;
@@ -15616,7 +15616,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   position: relative;
   bottom: 1px;
   right: 10px;
-  background-image: url('images/default-assets/icons/cart-plus-white.png');
+  background-image: url('../files/images/default-assets/icons/cart-plus-white.png');
   background-repeat: no-repeat;
   background-size: 32px;
   background-position-x: 24%;
@@ -15769,19 +15769,19 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   border: none;
 }
 .productDetails .contact-confidence .icon.phone {
-  background-image: url('images/icons/circle-phone.png');
+  background-image: url('../files/images/icons/circle-phone.png');
 }
 .productDetails .contact-confidence .icon.email {
-  background-image: url('images/icons/circle-email.png');
+  background-image: url('../files/images/icons/circle-email.png');
 }
 .productDetails .contact-confidence .icon.return {
-  background-image: url('images/icons/circle-returns.png');
+  background-image: url('../files/images/icons/circle-returns.png');
 }
 .productDetails .contact-confidence .icon.warranty {
-  background-image: url('images/icons/circle-warranty.png');
+  background-image: url('../files/images/icons/circle-warranty.png');
 }
 .productDetails .contact-confidence .icon.myProfile {
-  background-image: url('images/icons/circle-profile.png');
+  background-image: url('../files/images/icons/circle-profile.png');
 }
 .productDetails .manuImgRow {
   padding-bottom: 15px;
@@ -16682,7 +16682,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   border-left: 3px solid #9e1e23 !important;
 }
 .showAssembly .assemblyRow1.selected .btn-tertiary.addToCart {
-  background-image: url('images/icons/cart-all-hover.png');
+  background-image: url('../files/images/icons/cart-all-hover.png');
 }
 .showAssembly .assemblyRow1.selected div {
   color: #9e1e23 !important;
@@ -16718,7 +16718,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   border-left: 3px solid #9e1e23 !important;
 }
 .showAssembly .assemblyRow2.selected .btn-tertiary.addToCart {
-  background-image: url('images/icons/cart-all-hover.png');
+  background-image: url('../files/images/icons/cart-all-hover.png');
 }
 .showAssembly .assemblyRow2.selected div {
   color: #9e1e23 !important;
@@ -16894,7 +16894,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   text-align: center;
 }
 .showAssembly .assemblyProductAddToCart .btn-tertiary.addToCart {
-  background-image: url('images/icons/cart-all.png');
+  background-image: url('../files/images/icons/cart-all.png');
   background-color: transparent !important;
   height: 40px;
   width: 40px;
@@ -16904,7 +16904,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   background-size: 40px;
 }
 .showAssembly .assemblyProductAddToCart .btn-tertiary.addToCart:hover {
-  background-image: url('images/icons/cart-all-hover.png');
+  background-image: url('../files/images/icons/cart-all-hover.png');
 }
 .showAssembly .img-hotspots-wrapper {
   text-align: center;
@@ -17061,7 +17061,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   padding: 0;
 }
 .showMoreAppNotesBtn {
-  background-image: url('images/icons/arrow-box.png');
+  background-image: url('../files/images/icons/arrow-box.png');
   width: 16px;
   height: 16px;
   display: inline-block !important;
@@ -17070,7 +17070,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   margin-top: 15px;
 }
 .showLessAppNotesBtn {
-  background-image: url('images/icons/arrow-box.png');
+  background-image: url('../files/images/icons/arrow-box.png');
   width: 16px;
   height: 16px;
   display: inline-block !important;
@@ -17084,7 +17084,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   margin-top: 15px;
 }
 .fullsizeAssemblyImageBtn {
-  background-image: url('images/icons/full-size.png');
+  background-image: url('../files/images/icons/full-size.png');
   background-repeat: no-repeat;
   background-position: right center;
   padding-right: 18px;
@@ -17157,7 +17157,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   font-weight: inherit;
 }
 .cartPage .secureImg {
-  background-image: url('images/icons/checkout-lock-black.png');
+  background-image: url('../files/images/icons/checkout-lock-black.png');
   background-repeat: no-repeat;
   background-position: center;
   width: 80px;
@@ -17177,7 +17177,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 .cartPage .removeButton {
   color: #777;
   color: #777 !important;
-  background-image: url('images/icons/x-cart-product.png');
+  background-image: url('../files/images/icons/x-cart-product.png');
   background-repeat: no-repeat;
   background-position: 0;
   background-size: 10px;
@@ -17220,7 +17220,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   line-height: 21px;
 }
 .proceedToCheckoutButtonBtn {
-  background-image: url('images/icons/checkout-lock-white.png');
+  background-image: url('../files/images/icons/checkout-lock-white.png');
   background-repeat: no-repeat;
   background-position: 10px center;
   background-size: 15px;
@@ -17489,15 +17489,15 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   margin-top: 6px;
 }
 .navbar-businessName .dealer-info-locality div.location {
-  background-image: url('images/icons/header-location.png');
+  background-image: url('../files/images/icons/header-location.png');
   background-size: 8px;
 }
 .navbar-businessName .dealer-info-locality div.phone {
-  background-image: url('images/icons/header-phone.png');
+  background-image: url('../files/images/icons/header-phone.png');
   background-size: 10px;
 }
 .navbar-businessName .dealer-info-locality div.email {
-  background-image: url('images/icons/header-email.png');
+  background-image: url('../files/images/icons/header-email.png');
   background-size: 12px;
 }
 .dealerBusinessName {
@@ -17507,7 +17507,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   margin-top: 20px;
 }
 .addressImg {
-  background: url('images/icons/location.png');
+  background: url('../files/images/icons/location.png');
   display: inline-block;
   background-repeat: no-repeat;
   background-position: left center;
@@ -17517,7 +17517,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #fff !important;
 }
 .phoneImg {
-  background: url('images/icons/phone.png');
+  background: url('../files/images/icons/phone.png');
   display: inline-block;
   background-repeat: no-repeat;
   background-position: left center;
@@ -17535,7 +17535,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #fff;
 }
 .emailImg {
-  background: url('images/icons/email.png');
+  background: url('../files/images/icons/email.png');
   display: inline-block;
   background-repeat: no-repeat;
   background-position: left center;
@@ -17947,7 +17947,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   display: none;
 }
 .vin-container .closeModal {
-  background-image: url('images/icons/x-cart.png');
+  background-image: url('../files/images/icons/x-cart.png');
   background-repeat: no-repeat;
   width: 20px;
   height: 20px;
@@ -17991,7 +17991,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   border-bottom: 2px solid #9e1e23;
 }
 .vin-container .vin-row .closeModal {
-  background-image: url('images/icons/x-cartproduct.png');
+  background-image: url('../files/images/icons/x-cartproduct.png');
 }
 .vin-col {
   padding: 20px;
@@ -18119,7 +18119,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   padding: 20px;
 }
 .authFeed .btn_container .btn_viewMore {
-  background: transparent url('images/rightarrow.png') no-repeat center right;
+  background: transparent url('../files/images/rightarrow.png') no-repeat center right;
   padding: 10px 20px;
 }
 .interior.wholesaleLogin .container .wholesale .panel-body {
@@ -18708,7 +18708,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   display: none;
 }
 .guided-nav .guided-nav__body .guided-nav__body__btn .guided-nav__body_btn-area {
-  background-image: url('images/volvo-us-oem-assets/icons/arrow-down-grey.png') !important;
+  background-image: url('../files/images/volvo-us-oem-assets/icons/arrow-down-grey.png') !important;
   background-repeat: no-repeat;
   background-size: 14px;
   background-position: center;
@@ -19388,7 +19388,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   background: none;
   display: inline-block;
   padding-right: 30px;
-  background-image: url('images/default-assets/icons/part-types/return-home.png');
+  background-image: url('../files/images/default-assets/icons/part-types/return-home.png');
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: 95px center;
@@ -19401,7 +19401,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   background: none;
   display: inline-block;
   padding-right: 30px;
-  background-image: url('images/default-assets/icons/part-types/select-new.png');
+  background-image: url('../files/images/default-assets/icons/part-types/select-new.png');
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: 140px center;
@@ -19620,7 +19620,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   background: #fff;
 }
 .product-inventory-side-wrapper .partAvailabilityRow .col-md-12 .partAvailabilityBodyContainer > div .listingNumber:not(.hidePhone) {
-  background: url('images/icons/phone.png') no-repeat center left;
+  background: url('../files/images/icons/phone.png') no-repeat center left;
   background-size: 11px;
 }
 .product-inventory-side-wrapper .partAvailabilityRow .col-md-12 .partAvailabilityBodyContainer .partAvailabilityListingContainer {
@@ -19714,11 +19714,11 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   padding-right: 15px;
 }
 .product-inventory-side-wrapper .partAvailabilityRow .col-md-12 .expandPartAvailability .expandPartAvailabilityBtn .showMore {
-  background: url('images/icons/arrow-down-black.png') no-repeat center right;
+  background: url('../files/images/icons/arrow-down-black.png') no-repeat center right;
   background-size: 10px;
 }
 .product-inventory-side-wrapper .partAvailabilityRow .col-md-12 .expandPartAvailability .expandPartAvailabilityBtn .showLess {
-  background: url('images/icons/arrow-up-black.png') no-repeat center right;
+  background: url('../files/images/icons/arrow-up-black.png') no-repeat center right;
   background-size: 10px;
 }
 .SellSheetPricingDDL {
@@ -19850,7 +19850,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #fff !important;
 }
 .saved-carts .btn.searchListBtn {
-  background-image: url('images/vw-oem-assets/icons/search.png');
+  background-image: url('../files/images/vw-oem-assets/icons/search.png');
   background-color: transparent;
   background-size: 25px;
   background-repeat: no-repeat;
@@ -20343,14 +20343,14 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 }
 .utility-bar__search-icon {
   vertical-align: middle;
-  background-image: url('images/search.png');
+  background-image: url('../files/images/search.png');
   background-repeat: no-repeat;
   background-color: transparent;
   background-size: 15px;
   background-position: center;
   border: none;
   padding: 6px 24px;
-  background-image: url('images/icons/default/utilitybar-search.png') !important;
+  background-image: url('../files/images/icons/default/utilitybar-search.png') !important;
 }
 .utility-bar__search-input {
   border: none;
@@ -20476,12 +20476,12 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   width: 38px;
   display: inline-block;
   float: left;
-  background-image: url('images/icons/cart-black.png');
+  /*background-image: url('../files/images/icons/cart-black.png');*/
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
   height: 38px;
-  background-image: url('images/icons/default/cart-full.png') !important;
+  background-image: url('../files/images/icons/default/cart-full.png') !important;
 }
 .cart-widget-button__number {
   font-size: 23px !important;
@@ -20819,7 +20819,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 .icon-trash {
   font-size: 12px !important;
   line-height: 12px;
-  background-image: url('images/default-assets/icons/mygarage-delete.png');
+  background-image: url('../files/images/default-assets/icons/mygarage-delete.png');
   width: 14px;
   height: 16px;
   display: inline-block;
@@ -20837,23 +20837,23 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   vertical-align: middle;
 }
 .icon-ok {
-  background-image: url('images/default-assets/icons/mygarage-done.png');
+  background-image: url('../files/images/default-assets/icons/mygarage-done.png');
   width: 9px;
   height: 8px;
   display: inline-block;
   background-size: 100%;
 }
 .icon-partman {
-  content: url('images/default-assets/icons/mygarage-partman.png');
+  content: url('../files/images/default-assets/icons/mygarage-partman.png');
   max-width: 40px;
   float: left;
   margin: 8px 10px 0;
   position: absolute;
 }
 .icon-arrow-down {
-  background-image: url('images/icons/arrow-down-black.png');
+  background-image: url('../files/images/icons/arrow-down-black.png');
   max-width: 27px;
-  background-image: url('images/icons/default/utilitybar-arrow.png') !important;
+  background-image: url('../files/images/icons/default/utilitybar-arrow.png') !important;
 }
 .input-edit-name {
   padding: 5px;
@@ -21608,7 +21608,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #9e1e23;
 }
 .vehicle-picker-container .panel-default .panel-body .dropdown-wrapper .dropdown-arrow-icon {
-  background-image: url('images/icons/arrow-dropdown.png');
+  background-image: url('../files/images/icons/arrow-dropdown.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px;
@@ -21621,14 +21621,14 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   font-weight: bold !important;
 }
 .vehicle-picker-container .panel-default .panel-body .dropdown-wrapper .active + .dropdown-arrow-icon {
-  background-image: url('images/icons/arrow-dropdown.png');
+  background-image: url('../files/images/icons/arrow-dropdown.png');
 }
 .vehicle-picker-container .panel-default .panel-body .input-group-btn {
   width: 150px;
   margin-left: 15px;
 }
 .vehicle-picker-container .panel-default .panel-body .input-group-btn .plus-sign {
-  background-image: url('images/add-vehicle-plus.png');
+  background-image: url('../files/images/add-vehicle-plus.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -21742,7 +21742,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   width: auto;
 }
 .myProfile .dealer-info-locality__icon.dealer-info-locality__icon--user {
-  background-image: url('images/vip/vip-loggedin-profile.png');
+  background-image: url('../files/images/vip/vip-loggedin-profile.png');
   background-repeat: no-repeat;
   background-size: 40px;
   background-position-y: 25px;
@@ -21866,7 +21866,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-image: url('images/icons/arrow-down-black.png');
+  background-image: url('../files/images/icons/arrow-down-black.png');
   background-size: 12px 8px;
   background-repeat: no-repeat;
   background-position: 95%;
@@ -22058,7 +22058,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   display: inline-block;
 }
 .vehicle-picker-vehiclepicked .row .col-md-9 .content-panel .panel-heading .restart-btn {
-  background: url('images/icons/form-change.png') no-repeat center right;
+  background: url('../files/images/icons/form-change.png') no-repeat center right;
   display: inline-block;
   background-size: 22px !important;
   font-size: 0 !important;
@@ -22352,7 +22352,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 }
 .productInformationContainer .viewCount {
   font-size: 13px !important;
-  background-image: url('images/icons/view-count.png');
+  background-image: url('../files/images/icons/view-count.png');
   background-position: left center;
   background-repeat: no-repeat;
   padding-left: 30px;
@@ -22362,7 +22362,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 }
 .productInformationContainer .shippingImg {
   font-size: 13px !important;
-  background-image: url('images/default-assets/icons/ships.png');
+  background-image: url('../files/images/default-assets/icons/ships.png');
   background-position: left center;
   background-repeat: no-repeat;
   padding-left: 30px;
@@ -22449,7 +22449,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   background-color: #fff;
   overflow: hidden;
   height: 50px;
-  background-image: url('images/icons/arrow-down-black.png');
+  background-image: url('../files/images/icons/arrow-down-black.png');
   background-repeat: no-repeat;
   background-position: center;
   transition: none !important;
@@ -22486,7 +22486,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   margin-bottom: 10px;
 }
 .nla-wrapper .nlaText {
-  background: url('images/nlaProduct.png');
+  background: url('../files/images/nlaProduct.png');
   background-repeat: no-repeat;
   padding: 10px;
   min-height: 60px;
@@ -22909,7 +22909,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   margin-bottom: 5px;
 }
 .showMoreAssemblyPreviewSectionButton {
-  background-image: url('images/icons/arrow-down-black.png');
+  background-image: url('../files/images/icons/arrow-down-black.png');
   background-repeat: no-repeat;
   background-position: center right;
   background-size: 12px;
@@ -22920,7 +22920,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #000;
 }
 .showLessAssembliesLink {
-  background-image: url('images/icons/arrow-up-black.png');
+  background-image: url('../files/images/icons/arrow-up-black.png');
   background-repeat: no-repeat;
   background-position: center right;
   background-size: 12px;
@@ -22931,21 +22931,21 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #000;
 }
 .showMoreBtnLink {
-  background-image: url('images/icons/arrow-down-black.png');
+  background-image: url('../files/images/icons/arrow-down-black.png');
   background-repeat: no-repeat;
   background-position: center right;
   background-size: 12px;
   padding-right: 18px;
 }
 .showLessBtnLink {
-  background-image: url('images/icons/arrow-up-black.png') !important;
+  background-image: url('../files/images/icons/arrow-up-black.png') !important;
   background-repeat: no-repeat;
   background-position: center right;
   background-size: 12px;
   padding-right: 18px;
 }
 .fullDiaBtn {
-  background-image: url('images/icons/full-diagram.png');
+  background-image: url('../files/images/icons/full-diagram.png');
   background-repeat: no-repeat;
   background-position: 95% center;
   background-size: 12px;
@@ -23052,7 +23052,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 }
 .expandBtn {
   float: right;
-  background-image: url('images/arrow-down-square.png');
+  background-image: url('../files/images/arrow-down-square.png');
   background-repeat: no-repeat;
   background-size: 15px;
   border: none;
@@ -23388,7 +23388,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   font-family: "Helvetica Neue", Helvetica, Arial !important;
   font-size: 18px !important;
   line-height: 18px;
-  background-image: url('images/subaru-oem-assets-new/icons/arrow-seo-link.png');
+  background-image: url('../files/images/subaru-oem-assets-new/icons/arrow-seo-link.png');
   background-size: 5px;
   background-position: 95% center;
   background-repeat: no-repeat;
@@ -23413,14 +23413,14 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   width: 0;
 }
 .ss-container .ss-input {
-  background: #fff url('images/toyotaUSA2015/arrow-right.png') 98% no-repeat;
+  background: #fff url('../files/images/toyotaUSA2015/arrow-right.png') 98% no-repeat;
   border-radius: 15px;
   padding: 5px 18px 6px 10px;
   border: 1px solid #000;
   margin: 10px 0 0;
 }
 .ss-container .tt-input {
-  background: #fff url('images/toyotaUSA2015/arrow-right.png') 98% no-repeat;
+  background: #fff url('../files/images/toyotaUSA2015/arrow-right.png') 98% no-repeat;
   border-radius: 15px;
   padding: 5px 18px 6px 10px;
   border: 1px solid #000;
@@ -23469,7 +23469,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #000;
 }
 .ss-container .ss-menu .withFitment li .quickSearchBtn {
-  background: transparent url('images/toyotaUSA2015/ss-search.png') 98% no-repeat;
+  background: transparent url('../files/images/toyotaUSA2015/ss-search.png') 98% no-repeat;
   color: #333;
 }
 .ss-container .tt-menu {
@@ -23515,7 +23515,7 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
   color: #000;
 }
 .ss-container .tt-menu .withFitment li .quickSearchBtn {
-  background: transparent url('images/toyotaUSA2015/ss-search.png') 98% no-repeat;
+  background: transparent url('../files/images/toyotaUSA2015/ss-search.png') 98% no-repeat;
   color: #333;
 }
 .ss-container .ss-menu.ss-open {
@@ -23674,33 +23674,33 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 }
 .ss-container .ss-selectable a {
   color: #cbd3d4;
-  background: transparent url('images/toyotaUSA2015/cta-view.png') top center no-repeat;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view.png') top center no-repeat;
   text-decoration: none;
 }
 .ss-container .ss-selectable a:first-child {
-  background: transparent url('images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
 }
 .ss-container .ss-selectable a:first-child:hover {
-  background: transparent url('images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
 }
 .ss-container .ss-selectable a:hover {
   color: #000;
-  background: transparent url('images/toyotaUSA2015/cta-view-hover.png') top center no-repeat;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view-hover.png') top center no-repeat;
 }
 .ss-container .ss-selectable a:visited {
   color: #cbd3d4;
 }
 .ss-container .ss-selectable a.cta-find {
-  background: transparent url('images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
 }
 .ss-container .ss-selectable a.cta-find:hover {
-  background: transparent url('images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
 }
 .ss-container .ss-selectable a.cta-view {
-  background: transparent url('images/toyotaUSA2015/cta-view.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view.png') top center no-repeat !important;
 }
 .ss-container .ss-selectable a.cta-view:hover {
-  background: transparent url('images/toyotaUSA2015/cta-view-hover.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view-hover.png') top center no-repeat !important;
 }
 .ss-container .tt-selectable {
   transition: ease 0.25s;
@@ -23710,33 +23710,33 @@ input#ctl00_Content_PageBody_ctl08_button_estimateShipping {
 }
 .ss-container .tt-selectable a {
   color: #cbd3d4;
-  background: transparent url('images/toyotaUSA2015/cta-view.png') top center no-repeat;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view.png') top center no-repeat;
   text-decoration: none;
 }
 .ss-container .tt-selectable a:first-child {
-  background: transparent url('images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
 }
 .ss-container .tt-selectable a:first-child:hover {
-  background: transparent url('images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
 }
 .ss-container .tt-selectable a:hover {
   color: #000;
-  background: transparent url('images/toyotaUSA2015/cta-view-hover.png') top center no-repeat;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view-hover.png') top center no-repeat;
 }
 .ss-container .tt-selectable a:visited {
   color: #cbd3d4;
 }
 .ss-container .tt-selectable a.cta-find {
-  background: transparent url('images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find.png') top center no-repeat !important;
 }
 .ss-container .tt-selectable a.cta-find:hover {
-  background: transparent url('images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-find-hover.png') top center no-repeat !important;
 }
 .ss-container .tt-selectable a.cta-view {
-  background: transparent url('images/toyotaUSA2015/cta-view.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view.png') top center no-repeat !important;
 }
 .ss-container .tt-selectable a.cta-view:hover {
-  background: transparent url('images/toyotaUSA2015/cta-view-hover.png') top center no-repeat !important;
+  background: transparent url('../files/images/toyotaUSA2015/cta-view-hover.png') top center no-repeat !important;
 }
 .ss-container-container {
   position: absolute;
@@ -23955,7 +23955,7 @@ a.browseaccessories .accessoryProductContainer ul li > div .thumbnail .caption .
   height: auto;
   text-transform: uppercase !important;
   font-weight: bold !important;
-  background-image: url('images/icons/arrow-right-black.png');
+  background-image: url('../files/images/icons/arrow-right-black.png');
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 7px;
@@ -23985,7 +23985,7 @@ a.browseaccessories .accessoryProductContainer ul li > div .thumbnail .caption .
   left: 30px;
 }
 .selectVehicle .refineResults a.seoLinkItem.Make:nth-child(1)::after {
-  background-image: url('images/icons/header-location.png');
+  background-image: url('../files/images/icons/header-location.png');
 }
 .selectVehicle .refineResults .seoLinkItem:not(.Make) {
   display: inline-block;
@@ -24158,7 +24158,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   font-family: 'Roboto', sans-serif !important;
   float: right;
   padding: 0;
-  background-image: url('images/icons/cart-full.png') !important;
+  background-image: url('../files/images/icons/cart-full.png') !important;
   background-repeat: no-repeat;
   background-position: 2px center;
   background-size: 30px;
@@ -24176,7 +24176,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   background-color: #73161a;
 }
 .cart-button-container .cartLinkHeading:hover .badge {
-  background-image: url('images/icons/cart-white.png');
+  background-image: url('../files/images/icons/cart-white.png');
 }
 .navbar-left {
   float: right !important;
@@ -24302,7 +24302,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   color: #c7ddef;
 }
 .category-links-button {
-  background-image: url('images/icons/arrow-down.png') !important;
+  background-image: url('../files/images/icons/arrow-down.png') !important;
   background-repeat: no-repeat !important;
   background-position: 97% center !important;
   background-size: 10px !important;
@@ -24311,14 +24311,14 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   font-size: 14px !important;
 }
 .about-us-link {
-  background-image: url('images/icons/arrow-right.png') !important;
+  background-image: url('../files/images/icons/arrow-right.png') !important;
   background-repeat: no-repeat;
   background-position: 97% center;
   background-size: 5.5px;
   padding-right: 14px !important;
 }
 .business-contact-details__location {
-  background-image: url('images/icons/header-location.png');
+  background-image: url('../files/images/icons/header-location.png');
   background-size: 12px;
   background-position: left center;
   background-repeat: no-repeat;
@@ -24327,7 +24327,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   margin-top: 10px;
 }
 .business-contact-details__phone {
-  background-image: url('images/icons/header-phone.png');
+  background-image: url('../files/images/icons/header-phone.png');
   background-size: 12px;
   background-position: left center;
   background-repeat: no-repeat;
@@ -24336,7 +24336,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   margin-top: 10px;
 }
 .business-contact-details__email {
-  background-image: url('images/icons/header-email.png');
+  background-image: url('../files/images/icons/header-email.png');
   background-size: 12px;
   background-position: left center;
   background-repeat: no-repeat;
@@ -24348,7 +24348,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   padding: 10px;
 }
 .navbar-brand.noLogo {
-  background-image: url('images/logos/logo.jpg');
+  background-image: url('../files/images/logos/logo.jpg');
 }
 .vehicleSelectWrap .vinTrigger {
   font-family: 'Verdana', sans-serif !important;
@@ -24448,7 +24448,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   text-align: right;
 }
 .change-vehicle-trigger-container .change-vehicle-header-trigger {
-  background-image: url('images/icons/header-restart-default.png');
+  background-image: url('../files/images/icons/header-restart-default.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: 18px 22px;
@@ -24595,7 +24595,7 @@ a.selectVehicle .refineResults .seoLinkItem:not(.Make).disabled {
   border-color: #2e6da4;
 }
 .utility-bar__select-vehicle-icon {
-  background-image: url('images/icons/default/utilitybar-arrow.png') !important;
+  background-image: url('../files/images/icons/default/utilitybar-arrow.png') !important;
 }
 a.refineVehicle.modalWrap.show .vehicleSelectWrap .refineResults .refineSearchBtn:not(.Make).disabled {
   pointer-events: none;
@@ -24715,7 +24715,7 @@ a.interior .browseaccessories .accessoryProductContainer ul li > div .thumbnail 
 }
 .interior.productDetails #contentDiv #addToCartMobile .addToCartPanelBody .productAddtoCartButton {
   text-transform: uppercase !important;
-  background-image: url('images/icons/cart-full.png') !important;
+  background-image: url('../files/images/icons/cart-full.png') !important;
   background-size: 23px;
   background-position-x: 50px;
   padding-left: 30px;
@@ -27512,7 +27512,7 @@ a.btn.btn-primary {
   }
   .showAssembly .assemblyProdDetails .assemblyProductAddToCart .btn-addToCart {
     width: 100%;
-    background: #9e1e23 url('images/icons/cart-white.png');
+    background: #9e1e23 url('../files/images/icons/cart-white.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px;
@@ -28085,7 +28085,7 @@ a.btn.btn-primary {
     font-family: 'Roboto', sans-serif !important;
     float: right;
     padding: 0;
-    background-image: url('images/icons/cart-full.png') !important;
+    background-image: url('../files/images/icons/cart-full.png') !important;
     background-repeat: no-repeat;
     background-position: 5px center;
     background-size: 30px;
@@ -28103,7 +28103,7 @@ a.btn.btn-primary {
     background-color: #73161a;
   }
   .cartLinkHeading:hover .badge {
-    background-image: url('images/icons/cart-white.png');
+    background-image: url('../files/images/icons/cart-white.png');
   }
   .navbar > .container .navbar-brand {
     margin-left: auto;
@@ -29606,7 +29606,7 @@ a.btn.btn-primary {
     font-family: 'Roboto', sans-serif !important;
     float: right;
     padding: 0;
-    background-image: url('images/icons/cart-full.png') !important;
+    background-image: url('../files/images/icons/cart-full.png') !important;
     background-repeat: no-repeat;
     background-position: 5px center;
     background-size: 30px;
@@ -29624,6 +29624,6 @@ a.btn.btn-primary {
     background-color: #73161a;
   }
   .cartLinkHeading:hover .badge {
-    background-image: url('images/icons/cart-white.png');
+    background-image: url('../files/images/icons/cart-white.png');
   }
 }
