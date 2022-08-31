@@ -300,7 +300,6 @@
     <Content Include="files\tops-covers.jpg" />
     <Content Include="files\transmission.jpg" />
     <Content Include="files\triumph.png" />
-    <Content Include="files\unminstyle.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -311,7 +310,6 @@
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
     </None>
-    <Content Include="files\less.less" />
     <Content Include="README.md" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
